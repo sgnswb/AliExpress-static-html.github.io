@@ -1,0 +1,339 @@
+      <div class="container home-firstscreen-main">
+        <div class="row">
+          <div class="col-lg-2">
+            <ul class="list-unstyled category-nav">
+             <li role="presentation"><a href="#" class="glyphicon glyphicon-phone home-link"> Phones & Accessories</a>
+              <div class="mega-menu-show home-items">
+                <div class="row">
+                  <div class="col-lg-9">
+                    <div class="row">
+                      <div class="col-lg-4">
+                       <ul class="list-unstyled">
+                         <li role="presentation"><a href="#" class="category-content-format">Mobile Phones</a></li>
+                         <li role="presentation"><a href="#">Octa Core</a></li>
+                         <li role="presentation"><a href="#">Quad Core</a></li>
+                         <li role="presentation"><a href="#">Single SIM Card</a></li>
+                         <li role="presentation"><a href="#">Dual SIM Card</a></li>
+                         <li role="presentation"><a href="#">3GB RAM</a></li>
+                         <li role="presentation"><a href="#">5.0 Display</a></li>
+                         <li role="presentation"><a href="#" class="category-content-format">Mobile Phone Parts</a></li>
+                         <li role="presentation"><a href="#">Mobile Phone LCDs</a></li>
+                         <li role="presentation"><a href="#">Mobile Phone Batteries</a></li>
+                         <li role="presentation"><a href="#">Mobile Phone Housings</a></li>
+                         <li role="presentation"><a href="#">Signal Boosters</a></li>
+                         <li role="presentation"><a href="#">SIM Card & Tools</a></li>
+                       </ul>
+                     </div>
+                     <div class="col-lg-4">
+                       <ul class="list-unstyled">
+                         <li role="presentation"><a href="#" class="category-content-format">Phone Bags & Cases</a></li>
+                         <li role="presentation"><a href="#">Pouches</a></li>
+                         <li role="presentation"><a href="#">Bumper Cases</a></li>
+                         <li role="presentation"><a href="#">Waterproof Cases</a></li>
+                         <li role="presentation"><a href="#">Leater Cases</a></li>
+                         <li role="presentation"><a href="#">Aluminum Cases</a></li>
+                         <li role="presentation"><a href="#">Rhinestone Cases</a></li>
+                         <li role="presentation"><a href="#" class="category-content-format">Walkie-Talkies</a></li>
+                         <li role="presentation"><a href="#">Walkie-Talkies</a></li>
+                         <li role="presentation"><a href="#">Walkie-Talkies Accessories</a></li>
+                       </ul>
+                     </div>
+                     <div class="col-lg-4">
+                       <ul class="list-unstyled">
+                         <li role="presentation"><a href="#" class="category-content-format">Mobile Phone Accessories</a></li>
+                         <li role="presentation"><a href="#">Backup Battory Packs</a></li>
+                         <li role="presentation"><a href="#">Screen Protectors</a></li>
+                         <li role="presentation"><a href="#">Mobile Phone Cables</a></li>
+                         <li role="presentation"><a href="#">Chargers</a></li>
+                         <li role="presentation"><a href="#">Holders & Stands</a></li>
+                         <li role="presentation"><a href="#">Mobile Phone Lenses</a></li>
+                         <li role="presentation"><a href="#" class="category-content-format">Communication Equipment</a></li>
+                         <li role="presentation"><a href="#">Antennas for Communications</a></li>
+                         <li role="presentation"><a href="#">Communication Cables</a></li>
+                         <li role="presentation"><a href="#">Fiber Optic Equipment</a></li>
+                         <li role="presentation"><a href="#">Fixed Wireless Terminals</a></li>
+                       </ul>
+                     </div>
+                   </div>
+                   <div class="row">
+                     <div class="col-lg-4">
+                      <ul class="list-unstyled">
+                       <li role="presentation" class="category-content" ><a href="#" class="category-content-link">
+                         <span class="category-content-info">Melzu M2 Mini</span>
+                         <span class="category-content-img"><img class="category-content-image" src="http://img.alicdn.com/tps/i1/TB1bK_OKFXXXXaiXFXX1ElnIXXX-64-64.png"></span>
+                       </a>
+                     </li>
+                   </ul>
+                 </div>
+                 <div class="col-lg-4">
+                  <ul class="list-unstyled">
+                   <li role="presentation" class="category-content" ><a href="#" class="category-content-link">
+                     <span class="category-content-info">Xiaomi Smartphones</span>
+                     <span class="category-content-img"><img class="category-content-image" src="https://img.alicdn.com/tps/i3/TB1xY8VIXXXXXX.XpXXmqjTHFXX-60-60.png"></span>
+                   </a>
+                 </li>
+               </ul>
+             </div>
+             <div class="col-lg-4">
+               <ul class="list-unstyled">
+                 <li role="presentation" class="category-content" ><a href="#" class="category-content-link">
+                   <span class="category-content-info">Phone Cases</span>
+                   <span class="category-content-img"><img class="category-content-image" src="https://img.alicdn.com/tps/i1/TB11bCwKpXXXXbiaXXXmqjTHFXX-60-60.png"></span>
+                 </a>
+               </li>
+             </ul>
+           </div>
+         </div>
+       </div>
+       <div class="col-lg-3">
+         <div class="col-lg-3">
+           <img src="http://img.alicdn.com/tps/i2/TB1cvPqLFXXXXbSXpXXsfFF7pXX-228-520.jpg">
+         </div>
+       </div>
+     </div>
+   </div>
+ </li>
+ <li role="presentation"><a href="#" class="glyphicon glyphicon-briefcase profile-link"> Bags & Shoes</a>
+ </li>
+ <li role="presentation"><a href="#" class="glyphicon glyphicon-baby-formula messages-link"> Toys, Kids & Baby</a>
+ </li>
+ <li role="presentation"><a href="#" class="glyphicon glyphicon-baby-formula messages-link"> Toys, Kids & Baby</a>
+ </li>
+ <li role="presentation"><a href="#" class="glyphicon glyphicon-baby-formula messages-link"> Toys, Kids & Baby</a>
+ </li>
+ <li role="presentation"><a href="#" class="glyphicon glyphicon-baby-formula messages-link"> Toys, Kids & Baby</a>
+ </li>
+ <li role="presentation"><a href="#" class="glyphicon glyphicon-baby-formula messages-link"> Toys, Kids & Baby</a>
+ </li>
+ <li role="presentation"><a href="#" class="glyphicon glyphicon-baby-formula messages-link"> Toys, Kids & Baby</a>
+ </li>
+ <li role="presentation"><a href="#" class="glyphicon glyphicon-baby-formula messages-link"> Toys, Kids & Baby</a>
+ </li>
+ <li role="presentation"><a href="#" class="glyphicon glyphicon-baby-formula messages-link"> Toys, Kids & Baby</a>
+ </li>
+ <li role="presentation"><a href="#" class="glyphicon glyphicon-baby-formula messages-link"> Toys, Kids & Baby</a>
+ </li>
+ <li role="presentation"><a href="#" class="glyphicon glyphicon-baby-formula messages-link"> Toys, Kids & Baby</a>
+ </li>
+ <li role="presentation"><a href="#" class="glyphicon glyphicon-baby-formula messages-link"> Toys, Kids & Baby</a>
+ </li>
+ <li role="presentation"><a href="#" class="glyphicon glyphicon-baby-formula messages-link"> Toys, Kids & Baby</a>
+ </li>
+</ul>
+</div>
+<div class="col-lg-7 carousel">
+ <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="3"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img class="carousel-inner-img" src="assets/img/TB1p7HwLFXXXXXHXpXXXXXXXXXX-750-400.jpg" alt="...">
+    </div>
+    <div class="item active">
+      <img class="carousel-inner-img" src="assets/img/TB1Vea2LFXXXXcUXFXXXXXXXXXX-750-400.jpg" alt="...">
+    </div>
+    <div class="item">
+      <img class="carousel-inner-img" src="assets/img/TB1wWDoHFXXXXXVaXXXVpvE2pXX-750-400.jpg" alt="...">
+    </div>
+    <div class="item">
+      <img class="carousel-inner-img" src="assets/img/TB10vWZLFXXXXcpXFXXXXXXXXXX-750-400.jpg" alt="...">
+    </div>
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+  </a>
+</div> <!-- Carousel -->
+</div>
+<div class="col-lg-3">
+  <a href="#"><img class="category-special-image" src="https://img.alicdn.com/tps/i2/TB1pazRLFXXXXcmXVXXJTjSZVXX-320-400.jpg"></a>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29/02/2016
+
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="container collection">
+      <div class="row">
+        <div class="col-lg-9 collection-container" style="    background-color: #fff;
+    border-top: 2px solid red;">
+          <div class="col-lg-12 collection-title">
+            <h2  class="ali-title"><a href="#"><span class="ali-font-style">ALIEXPRESS</span> COLLECTIONS</a></h2>
+            <a href="#" class="title-view-more">
+              View more
+            </a>
+          </div>
+          <a href="#">
+            <div class="col-lg-12 collections-left-panel">
+              <img src="assets/img/TB1DOv2LFXXXXXqXFXXXXXXXXXX-660-340.jpg" alt="">
+            </div>
+            <div class="top-items">
+              <div class="top-item">
+                <img src="assets/img/TB1k8T5LFXXXXcJXpXXXXXXXXXX-350-350.jpg_220x220.jpg" alt="">
+              </div>
+              <div class="other-items">
+                <img src="assets/img/TB1doceLFXXXXX1XXXXXXXXXXXX-350-350.jpg_80x80.jpg" alt="">
+                <img src="assets/img/Modern-brief-fashion-three-dimensional-sculpture-white-elk-bathroom-invisible-coat-decoration-robe-hook-wall-hook.jpg_80x80.jpg" alt="">
+                <img src="assets/img/TB1IMgXLFXXXXcUXXXXXXXXXXXX-350-350.jpg_80x80.jpg" alt="">
+              </div>
+            </div>
+          </a>
+          <a href="#">
+            <div class="collections-right-panel hidden-sm">
+              <div class="pic-group">
+                <div class="pic bborder">
+                  <div class="desc">
+                    <span class="subject">
+                      Perfect Closet
+                    </span>
+                  </div>
+                </div>
+                <div class="pic rborder">
+                  <img class="rpic" src="assets/img/2015-New-Multifunctional-Tree-Branch-Shape-White-color-Jewelry-Display-Earring-Bracelet-Necklace-Ring-Display-stand.jpg_140x140.jpg" alt="">
+                </div>
+                <div class="pic cborder">
+                  <img class="bpic" src="assets/img/Can-hang-wardrobe-dehumidizier-wardrobe-hanging-moisture-bags-drying-agent-Hygroscopic-anti-mold-desiccant-bag.jpg_140x140.jpg" alt="">
+                </div>
+                <div class="pic">
+                  <img class="bpic rpic" src="assets/img/1pc-lot-Black-Coat-Clothes-Garment-Suit-Cover-Bags-Dustproof-Hanger-Storage-Protector-Travel-Storage-Organizer.jpg_140x140.jpg" alt="">
+                </div>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-3" style="    margin-left: 0px;">
+          <div style="    padding: 0 0 0 10px;">
+            <div class="col-lg-12" style="    background-color: #fff;
+    padding-left: 28px;
+    border-top: 2px solid red;">
+              <h2 class="today-deal">
+                <a href="#">
+                  <strong>
+                    <span class="today-deal-info">TODAY'S</span>
+                    DEALS
+                  </strong>
+                </a>
+                <a href="#" class="today-deal-items" >
+                  <span class="today-deal-num" ><strong>406</strong></span>
+                  <span class="today-deal-item text-muted" >items</span>
+                </a>
+                </h2>
+            </div>
+            <div class="col-lg-12">5</div>  
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+03/03/2016
+
+
+  <div class="visible-xs">
+        <div class=" container-fluid top-container-bg">
+      <nav class="navbar navbar-default">
+        <div class="container top-container-content">
+          <div class="row">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed category-button" data-toggle="collapse" data-target="#navbar-industry-woman-cloth" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand visible-xs" href="#">Categories</a>
+            </div>
+            <div id="navbar-industry-woman-cloth" class="navbar-collapse collapse">
+              <ul  class="nav navbar-nav navbar-right category-shoutcut-info">
+                <li class="dropdown navbar-border">
+                  <a href="#" class="navbar-position text-muted dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Phones & Accessories <span class="glyphicon glyphicon-menu-down"></span></a>
+                  <ul class="dropdown-menu">
+                    <li><a class="text-muted navbar-position" href="#">Customer Service</a></li>
+                    <li><a class="text-muted navbar-position" href="#">Disputes & Reports</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown navbar-border">
+                  <a href="#" class="text-muted dropdown-toggle navbar-position" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Bags & Shoes<span class="glyphicon glyphicon-menu-down"></span></a>
+                  <ul class="dropdown-menu">
+                    <li><a class="text-muted navbar-position" href="#">Customer Service</a></li>
+                    <li><a class="text-muted navbar-position" href="#">Disputes & Reports</a></li>
+                  </ul>
+                </li>
+                <li class="dropdown">
+                  <a href="#" class="text-muted dropdown-toggle navbar-position" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Toys, Kids & Baby<span class="glyphicon glyphicon-menu-down"></span></a>
+                  <ul class="dropdown-menu">
+                    <li><a class="text-muted navbar-position" href="#">Customer Service</a></li>
+                    <li><a class="text-muted navbar-position" href="#">Disputes & Reports</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+            <div class="container top-container-content-info">
+              <div class="row">
+                <div class="col-lg-2 col-md-2  col-sm-3 col-xs-3 top-container-category">
+                  <span>CATEGORIES</span>
+                  <a href="#">See All</a>
+                </div>
+                <div class="col-lg-10 col-md-10 col-sm-9 col-xs-9 channel-entrance">
+                  <a href="#">SuperDeals</a>
+                  <a href="#">Featured Brands</a>
+                  <a href="#">AliExpress Collections</a>
+                  <a href="#">Bestselling</a>
+                  <a href="#">Tech Discovery</a>
+                  <a href="#">Trending Styles</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div><!--/.container-fluid -->
+      </nav>
+    </div>
+  </div>
